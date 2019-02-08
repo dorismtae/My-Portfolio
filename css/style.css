@@ -1,5 +1,21 @@
 h1{
   color: darkblue;
   font-style: italic;
-  font-size: 20 px;
+  font-size: 40 px;
+  text-align: center;
+  background-color: grey;
+}
+h2{
+  font-style: italic;
+  font-size: 50 px;
+  color: darkblue;
+  text-align: center;
+  background-color: grey;
+}
+body{
+  background-color: pink;
+}
+img{
+  width: 20%;
+  height: 20%;
 }
