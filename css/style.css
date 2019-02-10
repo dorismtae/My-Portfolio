@@ -28,3 +28,7 @@ p.intro{
 p.line2{
   font-size: 25px;
 }
+li.list{
+  font-size: 25px;
+  color: grey;
+}
