@@ -13,3 +13,6 @@ p{
   font-size: 40 px;
   font-family: sans-serif;
 }
+.box-model{
+  border: 5px grey;
+}

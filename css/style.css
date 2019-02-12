@@ -16,6 +16,7 @@ body{
   background-color: pink;
 }
 img{
+  float: left;
   width: 20%;
   height: 20%;
 }
@@ -31,4 +32,7 @@ p.line2{
 li.list{
   font-size: 25px;
   color: grey;
+}
+.box{
+  border: 5px grey;
 }
